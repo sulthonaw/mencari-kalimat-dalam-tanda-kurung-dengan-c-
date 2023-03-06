@@ -1,0 +1,15 @@
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\bin\Debug\net7.0\Contoh3.exe
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\bin\Debug\net7.0\Contoh3.deps.json
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\bin\Debug\net7.0\Contoh3.runtimeconfig.json
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\bin\Debug\net7.0\Contoh3.dll
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\bin\Debug\net7.0\Contoh3.pdb
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.csproj.AssemblyReference.cache
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.AssemblyInfoInputs.cache
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.AssemblyInfo.cs
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.csproj.CoreCompileInputs.cache
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.dll
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\refint\Contoh3.dll
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.pdb
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\Contoh3.genruntimeconfig.cache
+D:\github\mencari-kalimat-dalam-tanda-kurung-dengan-cs\Case3\obj\Debug\net7.0\ref\Contoh3.dll
